@@ -1,0 +1,28 @@
+body {
+  min-height: 3000px;
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+#Projects {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a.tbl-pink {
+  background-color: crimson;
+  border-radius: 20px;
+  margin-top: 20px;
+  padding: 15px;
+}
